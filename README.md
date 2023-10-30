@@ -3,11 +3,11 @@
 
 
 Contributors: 
-1. Acuzar, Yodie
-2. Capili, Yuri
-3. Dajac, John Victor
-4. Gatica, Jaren
-5. Laon, Adeline Grace
-6. Molina, Daniel John
-7. Orcales, Danzig
-8. Palileo, Gerald
+👨‍💻Acuzar, Yodie
+👨‍💻Capili, Yuri
+👨‍💻Dajac, John Victor
+👨‍💻Gatica, Jaren
+👩‍💻Laon, Adeline Grace
+👨‍💻Molina, Daniel John
+👨‍💻Orcales, Danzig
+👨‍💻Palileo, Gerald
